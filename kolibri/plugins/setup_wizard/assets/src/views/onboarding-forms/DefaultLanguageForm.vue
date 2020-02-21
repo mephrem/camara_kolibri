@@ -44,7 +44,7 @@
       },
     },
     $trs: {
-      languageFormHeader: 'Please select the default language for Kolibri',
+      languageFormHeader: 'Please select the default language for Camara Learning Studio',
     },
   };
 

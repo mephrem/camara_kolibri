@@ -23,7 +23,7 @@
     name: 'WelcomeModal',
     render: createElement => window.setTimeout(createElement, 750),
     $trs: {
-      welcomeModalHeader: 'Welcome to Kolibri!',
+      welcomeModalHeader: 'Welcome to Camara Learning Studio!',
       welcomeModalContentDescription:
         'The first thing you should do is import some resources from the Channel tab.',
       welcomeModalPermissionsDescription:

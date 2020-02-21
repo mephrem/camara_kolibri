@@ -97,7 +97,7 @@
       },
     },
     $trs: {
-      details: 'You can change this in your facility settings later',
+      details: 'You can change this in your institution settings later',
       yesOptionLabel: 'Yes',
     },
   };

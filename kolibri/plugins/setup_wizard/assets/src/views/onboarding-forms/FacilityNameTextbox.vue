@@ -53,9 +53,9 @@
       },
     },
     $trs: {
-      facilityNameFieldLabel: 'Facility name',
-      facilityNameFieldEmptyErrorMessage: 'Facility cannot be empty',
-      facilityNameFieldMaxLengthReached: 'Facility name cannot be more than 50 characters',
+      facilityNameFieldLabel: 'Institution name',
+      facilityNameFieldEmptyErrorMessage: 'Institution cannot be empty',
+      facilityNameFieldMaxLengthReached: 'Institution name cannot be more than 50 characters',
     },
   };
 

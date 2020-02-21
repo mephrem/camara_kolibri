@@ -17,7 +17,7 @@
     name: 'LoadingPage',
     components: { SubmissionStatePage },
     $trs: {
-      loadingPageHeader: 'Setting up your facility...',
+      loadingPageHeader: 'Setting up your institution...',
       loadingPageSubheader: 'Please be patient. Setup may take several minutes',
     },
   };

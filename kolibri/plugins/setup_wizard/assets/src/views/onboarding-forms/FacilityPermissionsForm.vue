@@ -126,14 +126,15 @@
       },
     },
     $trs: {
-      facilityPermissionsSetupFormHeader: 'What kind of facility are you installing Kolibri in?',
+      facilityPermissionsSetupFormHeader:
+        'What kind of Institution are you installing Camara Learning Studio in?',
       facilityPermissionsSetupFormDescription:
-        'A facility is the location where you are installing Kolibri, such as a school, training center, or a home.',
+        'An Institution is the location where you are installing Camara Learning Studio, such as a school, training center, or a home.',
       adminManagedSetupTitle: 'Formal',
       adminManagedSetupDescription: 'Schools and other formal learning contexts',
       selfManagedSetupTitle: 'Non-formal',
       selfManagedSetupDescription:
-        'Libraries, orphanages, correctional facilities, youth centers, computer labs, and other non-formal learning contexts',
+        'Libraries, orphanages, correctional institutions, youth centers, computer labs, and other non-formal learning contexts',
       informalSetupTitle: 'Personal',
       informalSetupDescription:
         'Homeschooling, supplementary individual learning, and other informal use',
