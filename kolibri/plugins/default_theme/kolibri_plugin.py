@@ -24,14 +24,14 @@ class DefaultThemeHook(theme_hook.ThemeHook):
             # specify primary and secondary brand colors
             theme_hook.BRAND_COLORS: {
                 theme_hook.PRIMARY: {
-                    theme_hook.COLOR_V50: "#f0e7ed",
-                    theme_hook.COLOR_V100: "#dbc3d4",
+                    theme_hook.COLOR_V50: "#ecf4da",
+                    theme_hook.COLOR_V100: "#d9e9b5",
                     theme_hook.COLOR_V200: "#c59db9",
                     theme_hook.COLOR_V300: "#ac799d",
-                    theme_hook.COLOR_V400: "#996189",
+                    theme_hook.COLOR_V400: "#80bc00",
                     theme_hook.COLOR_V500: "#874e77",
                     theme_hook.COLOR_V600: "#7c4870",
-                    theme_hook.COLOR_V700: "#6e4167",
+                    theme_hook.COLOR_V700: "#6a9a0e",
                     theme_hook.COLOR_V800: "#5f3b5c",
                     theme_hook.COLOR_V900: "#4b2e4d",
                 },
