@@ -83,7 +83,7 @@
     },
     $trs: {
       admin: 'You must be signed in as an admin to view this page',
-      adminOrCoach: 'You must be signed in as an admin or coach to view this page',
+      adminOrCoach: 'You must be signed in as an admin or educator to view this page',
       learner: 'You must be signed in as a learner to view this page',
       registeredUser: 'You must be signed in to view this page',
       superuser: {

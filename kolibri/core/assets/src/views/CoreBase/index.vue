@@ -480,7 +480,7 @@
       },
     },
     $trs: {
-      kolibriTitleMessage: '{ title } - Kolibri',
+      kolibriTitleMessage: '{ title } - Camara Learning Studio',
       errorPageTitle: 'Error',
     },
   };

@@ -133,7 +133,7 @@
     },
     $trs: {
       documentTitle: 'Setup Wizard',
-      personalFacilityName: 'Home Facility {name}',
+      personalFacilityName: 'Home Institution {name}',
     },
   };
 

@@ -74,7 +74,7 @@
     },
     $trs: {
       description:
-        'If you are setting up Kolibri to be used by other users, you or someone you delegate will be responsible for protecting and managing the user accounts and personal information stored on this device.',
+        'If you are setting up Camara Learning Studio to be used by other users, you or someone you delegate will be responsible for protecting and managing the user accounts and personal information stored on this device.',
       header: 'Responsibilities as an administrator',
     },
   };
