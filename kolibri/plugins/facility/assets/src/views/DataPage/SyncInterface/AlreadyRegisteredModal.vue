@@ -27,11 +27,11 @@
       },
     },
     $trs: {
-      registerFacility: 'Register facility',
+      registerFacility: 'Register institution',
       alreadyRegistered: {
         message: "Already registered with '{name}'",
         context:
-          '\nOnce a facility has been registered on the Kolibri Data Portal, if admin makes a second attempt to register, Kolibri will reply with this reminder that the facility has already been registered with a project called {name}.',
+          '\nOnce an institution has been registered on the Kolibri Data Portal, if admin makes a second attempt to register, Kolibri will reply with this reminder that the institution has already been registered with a project called {name}.',
       },
       close: 'Close',
     },

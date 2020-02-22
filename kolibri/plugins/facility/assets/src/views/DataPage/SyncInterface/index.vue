@@ -151,18 +151,18 @@
       },
     },
     $trs: {
-      syncData: 'Sync facility data',
+      syncData: 'Sync Institution data',
       access:
         'This is an experimental feature. You can use it if you have access to the Kolibri Data Portal.',
       learnMore: 'Usage and privacy',
-      facility: 'Facility',
+      facility: 'Institution',
       register: 'Register',
       registeredAlready: 'Registered to `Kolibri Data Portal`',
       sync: 'Sync',
       neverSynced: {
         message: 'Never synced',
         context:
-          '\nThis is associated with the label "Last successful sync:", and the subject is the Facility',
+          '\nThis is associated with the label "Last successful sync:", and the subject is the Institution',
       },
       lastSync: 'Last successful sync:',
       justNow: {

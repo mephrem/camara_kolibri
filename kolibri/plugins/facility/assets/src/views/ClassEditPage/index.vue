@@ -174,9 +174,9 @@
     },
     $trs: {
       enrollLearnerButtonLabel: 'Enroll learners',
-      assignCoachesButtonLabel: 'Assign coaches',
-      coachEnrollmentPageTitle: 'Manage class coaches and learners',
-      noCoachesInClassMessge: "You don't have any assigned coaches",
+      assignCoachesButtonLabel: 'Assign educators',
+      coachEnrollmentPageTitle: 'Manage class educators and learners',
+      noCoachesInClassMessge: "You don't have any assigned educators",
       noLearnersInClassMessage: "You don't have any enrolled learners",
       edit: 'Edit class name',
       documentTitle: 'Edit Class',

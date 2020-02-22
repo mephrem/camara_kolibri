@@ -157,22 +157,23 @@
       // These are not going to be picked up by the linter because snake cased versions
       // are used to get the keys to these strings.
       /* eslint-disable kolibri/vue-no-unused-translations */
-      learnerCanEditName: 'Allow learners and coaches to edit their full name',
-      learnerCanEditPassword: 'Allow learners and coaches to change their password when signed in',
-      learnerCanEditUsername: 'Allow learners and coaches to edit their username',
+      learnerCanEditName: 'Allow learners and educators to edit their full name',
+      learnerCanEditPassword:
+        'Allow learners and educators to change their password when signed in',
+      learnerCanEditUsername: 'Allow learners and educators to edit their username',
       learnerCanSignUp: 'Allow learners to create accounts',
       learnerCanLoginWithNoPassword: 'Allow learners to sign in with no password',
       showDownloadButtonInLearn: "Show 'download' button with resources",
       allowGuestAccess: 'Allow users to access resources without signing in',
       /* eslint-enable kolibri/vue-no-unused-translations */
       pageDescription: {
-        message: 'Configure facility settings here.',
-        context: '\nInterpret as "[You can] configure facility settings here"',
+        message: 'Configure institution settings here.',
+        context: '\nInterpret as "[You can] configure institution settings here"',
       },
       deviceSettings: 'You can also configure device settings',
-      pageHeader: 'Facility settings',
+      pageHeader: 'Institution settings',
       resetToDefaultSettings: 'Reset to defaults',
-      documentTitle: 'Configure Facility',
+      documentTitle: 'Configure Institution',
     },
   };
 

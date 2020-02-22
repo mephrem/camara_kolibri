@@ -74,7 +74,7 @@
       },
     },
     $trs: {
-      registerFacility: 'Register facility',
+      registerFacility: 'Register Institution',
       enterToken: 'Enter a project token from Kolibri Data Portal',
       projectToken: 'Project token',
       invalidToken: 'Invalid token',

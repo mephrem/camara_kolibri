@@ -217,7 +217,7 @@
       saveFailureNotification: 'Settings have not been updated',
       saveSuccessNotification: 'Settings have been updated',
       selectedLanguageLabel: 'Default language',
-      facilitySettings: 'You can also configure facility settings',
+      facilitySettings: 'You can also configure instituion settings',
       allowGuestAccess: 'Allow users to access resources without signing in',
       landingPageLabel: 'Landing page',
       signInPageChoice: 'Sign-in page',
