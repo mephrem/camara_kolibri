@@ -55,7 +55,7 @@
     },
     $trs: {
       allClassesLabel: 'All classes',
-      coach: '{count, plural, one {Coach} other {Coaches}}',
+      coach: '{count, plural, one {Educator} other {Educator}}',
       learner: '{count, plural, one {Learner} other {Learners}}',
     },
   };

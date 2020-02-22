@@ -98,9 +98,9 @@
     $trs: {
       classPageSubheader: 'View learner progress and class performance',
       noAssignedClassesDetails:
-        'Please consult your Kolibri administrator to be assigned to a class',
+        'Please consult your Camara Learning Studio administrator to be assigned to a class',
       noClassesDetailsForAdmin: 'Create a class and enroll learners',
-      noClassesDetailsForFacilityCoach: 'Please consult your Kolibri administrator',
+      noClassesDetailsForFacilityCoach: 'Please consult your Camara Learning Studio administrator',
     },
   };
 

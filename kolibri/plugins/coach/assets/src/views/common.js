@@ -96,9 +96,9 @@ export const CoachCoreBase = {
           return coachLabel;
         }
         if (this.isRtl) {
-          return `${classroomName} – ${coachLabel}`;
+          return `${classroomName} – Educate`;
         }
-        return `${coachLabel} – ${classroomName}`;
+        return `Educate – ${classroomName}`;
       },
     },
     pageTitle: {
