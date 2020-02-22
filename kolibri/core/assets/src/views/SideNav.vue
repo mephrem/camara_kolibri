@@ -264,7 +264,7 @@
     $trs: {
       navigationLabel: 'Main user navigation',
       closeNav: 'Close navigation',
-      poweredBy: 'Kolibri {version}',
+      poweredBy: 'Camara Learning Studio 0.3',
     },
   };
 
@@ -333,7 +333,7 @@
 
   .side-nav-header-name {
     margin-left: 8px;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: bold;
     vertical-align: middle;
   }
