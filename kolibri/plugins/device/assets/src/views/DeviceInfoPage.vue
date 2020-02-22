@@ -25,7 +25,7 @@
       </tr>
       <tr>
         <th>{{ $tr('kolibriVersion') }}</th>
-        <td>{{ deviceInfo.version }}</td>
+        <td>{{ 0.3 }}</td>
       </tr>
     </table>
 
@@ -78,7 +78,7 @@
       },
       infoText() {
         return [
-          `Version:           ${this.deviceInfo.version}`,
+          `Version:           0.3`,
           `OS:                ${this.deviceInfo.os}`,
           `Python:            ${this.deviceInfo.python_version}`,
           `Installer:         ${this.deviceInfo.installer}`,
@@ -93,7 +93,7 @@
     },
     $trs: {
       header: 'Device info',
-      kolibriVersion: 'Kolibri version',
+      kolibriVersion: 'Camara Learning Studio version',
       url: 'Server {count, plural, one {URL} other {URLs}}',
       freeDisk: 'Free disk space',
       advanced: 'Advanced',

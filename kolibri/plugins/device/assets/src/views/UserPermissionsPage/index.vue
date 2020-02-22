@@ -230,7 +230,7 @@
       userDoesNotExist: 'User does not exist',
       superAdminExplanation1:
         'Has all device permissions and can manage device permissions of other users',
-      superAdminExplanation2: 'Has admin permissions for all facilities on this device',
+      superAdminExplanation2: 'Has admin permissions for all institution on this device',
       you: 'You',
     },
   };
