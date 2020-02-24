@@ -92,6 +92,7 @@
             />
             <div class="side-nav-scrollable-area-footer-info">
               <p>{{ footerMsg }}</p>
+              <p> Powerd By Kolibri</p>
               <!-- Not translated -->
               <p>© {{ copyrightYear }} Learning Equality</p>
               <p>

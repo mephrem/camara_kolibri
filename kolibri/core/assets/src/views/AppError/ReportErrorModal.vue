@@ -83,7 +83,7 @@
       forumPrompt: 'Visit the community forums',
       // reall long
       forumUseTips:
-        'Search the community forum to see if others encountered similar issues. If unable to find anything, paste the error details below into a new forum post so we can rectify the error in a future version of Kolibri.',
+        'Search the community forum to see if others encountered similar issues. If unable to find anything, paste the error details below into a new forum post so we can rectify the error in a future version of Camara Learning Studio.',
       forumPostingTips:
         'Include a description of what you were trying to do and what you clicked on when the error appeared.',
       emailPrompt: 'Send an email to the developers',
