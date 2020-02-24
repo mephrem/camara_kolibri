@@ -27,26 +27,7 @@
             >
               {{ logoText }}
             </h1>
-            <p
-              v-if="$kolibriBranding.signIn.showPoweredBy"
-              :style="$kolibriBranding.signIn.poweredByStyle"
-              class="small-text"
-            >
-              <KButton
-                v-if="oidcProviderFlow"
-                :text="$tr('poweredByKolibri')"
-                appearance="basic-link"
-                @click="whatsThisModalVisible = true"
-              />
-              <KExternalLink
-                v-else
-                :text="$tr('poweredByKolibri')"
-                :primary="true"
-                href="https://learningequality.org/r/powered_by_kolibri"
-                target="_blank"
-                appearance="basic-link"
-              />
-            </p>
+
             <form ref="form" class="login-form" @submit.prevent="signIn">
               <UiAlert
                 v-if="invalidCredentials"
@@ -115,6 +96,40 @@
                 />
               </div>
             </form>
+
+            <p
+
+              :style="$kolibriBranding.signIn.poweredByStyle"
+              class="small-text"
+            >
+              <KButton
+                v-if="oidcProviderFlow"
+                :text="$tr('poweredByKolibri')"
+                appearance="basic-link"
+                @click="whatsThisModalVisible = true"
+              />
+              <KExternalLink
+                v-else
+                :text="$tr('poweredByKolibri')"
+                :primary="true"
+                href="https://learningequality.org/r/powered_by_kolibri"
+                target="_blank"
+                appearance="basic-link"
+              />
+              <br>
+              <img
+                src="./kolibri-logo-kolibri.svg"
+                height="40"
+                width="40"
+              >
+            </p>
+            <p 
+              :style="$kolibriBranding.signIn.poweredByStyle"
+              class="small-text"
+              style="color: #80bc00"
+            >
+              {{ $tr('copyright') }}
+            </p>
 
             <p class="create">
               <KRouterLink
@@ -514,6 +529,7 @@
     $trs: {
       createAccountAction: 'Create an account',
       poweredByKolibri: 'Powered by Kolibri',
+      copyright: '©Learning Equality',
       whatsThis: "What's this?",
       oidcGenericExplanation:
         'Kolibri is an e-learning platform. You can also use your Kolibri account to log in to some third-party applications.',
@@ -523,7 +539,7 @@
         "You were sent here from the application '{app_name}'. Kolibri is an e-learning platform, and you can also use your Kolibri account to access '{app_name}'.",
       accessAsGuest: 'Explore without account',
       signInError: 'Incorrect username or password',
-      poweredBy: 'Kolibri {version}',
+      poweredBy: 'Camara Learning Studio 0.3',
       requiredForCoachesAdmins: 'Password is required for coaches and admins',
       documentTitle: 'User Sign In',
     },
@@ -655,7 +671,7 @@
   .kolibri-title {
     margin-top: 0;
     margin-bottom: 8px;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 100;
   }
 

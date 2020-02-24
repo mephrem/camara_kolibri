@@ -27,7 +27,7 @@ class DefaultThemeHook(theme_hook.ThemeHook):
                     theme_hook.COLOR_V50: "#ecf4da",
                     theme_hook.COLOR_V100: "#d9e9b5",
                     theme_hook.COLOR_V200: "#c59db9",
-                    theme_hook.COLOR_V300: "#ac799d",
+                    theme_hook.COLOR_V300: "#80bc00",
                     theme_hook.COLOR_V400: "#80bc00",
                     theme_hook.COLOR_V500: "#874e77",
                     theme_hook.COLOR_V600: "#7c4870",
@@ -55,7 +55,8 @@ class DefaultThemeHook(theme_hook.ThemeHook):
                 theme_hook.TITLE: None,  # use default: "Kolibri"
                 theme_hook.TOP_LOGO: {
                     theme_hook.IMG_SRC: None,  # use default Kolibri bird
-                    theme_hook.IMG_STYLE: "padding-left: 64px; padding-right: 64px; margin-bottom: 8px; margin-top: 8px",
+                    # theme_hook.IMG_STYLE: "padding-left: 64px; padding-right: 64px; margin-bottom: 8px; margin-top: 8px",
+                    theme_hook.IMG_STYLE: None,
                     theme_hook.IMG_ALT: None,
                 },
                 theme_hook.SHOW_POWERED_BY: False,

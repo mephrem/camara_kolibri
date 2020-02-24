@@ -53,9 +53,9 @@
       },
     },
     $trs: {
-      facilitySelectionPrompt: 'Which facility do you want to sign in to?',
+      facilitySelectionPrompt: 'Which institution do you want to sign in to?',
       submitFacilitySelectionButtonPrompt: 'Select',
-      facilitySelectionModalHeader: 'Select a facility',
+      facilitySelectionModalHeader: 'Select an institution',
     },
   };
 

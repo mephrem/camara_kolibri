@@ -122,7 +122,7 @@
       defaultErrorExitPrompt: 'Back to home',
       pageReloadPrompt: 'Refresh',
       defaultErrorMessage:
-        'We care about your experience on Kolibri and are working hard to fix this issue',
+        'We care about your experience on Camara Learning Studio and are working hard to fix this issue',
       defaultErrorResolution: 'Try refreshing this page or going back to the home page',
       defaultErrorReportPrompt: 'Help us by reporting this error',
       resourceNotFoundHeader: 'Resource not found',
